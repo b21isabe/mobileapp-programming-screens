@@ -67,10 +67,10 @@ skriva ut värdet av variablerna i de textviews som jag skapade i den andra acti
 ```
 
 
-![](sc1.PNG)
+![](sc1)
 
 Figur 1 Exempelbild över hur data kan matas in i main activity
 
-![](sc2.PNG)
+![](sc2)
 
 Figur 2 Exempelbild över hur datan visas i second activity
